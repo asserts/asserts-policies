@@ -9,9 +9,11 @@ description: 'Effective date: 03/29/2021'
 Welcome to Asserts, Inc. \(“Company”, “we”, “our”, “us”\)!   
 As you have just clicked our Terms of Service, please pause, grab a cup of coffee and carefully read the following pages. It will take you approximately 20 minutes.
 
-These Terms of Service \(“Terms”, “Terms of Service”\) govern your use of our web pages located at [https://asserts.ai](https://asserts.ai/) operated by Asserts, Inc.
+These Terms of Service \(“Terms”, “Terms of Service”\) govern your use of our web pages located at [asserts.ai](https://asserts.ai/) operated by Asserts, Inc.
 
-Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages. Please read it here [https://asserts.ai/policy/privacy.](https://asserts.ai/policy/privacy.)
+Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages. Please read it here:
+
+{% page-ref page="privacy-policy.md" %}
 
 Your agreement with us includes these Terms and our Privacy Policy \(“Agreements”\). You acknowledge that you have read and understood Agreements, and agree to be bound of them.
 
@@ -65,11 +67,13 @@ Content found on or through this Service are the property of Asserts, Inc. or us
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 
 {% hint style="info" %}
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+For more information on the privacy practices of Google, please visit [Google Privacy & Terms](https://policies.google.com/privacy?hl=en)
 {% endhint %}
 
+
+
 {% hint style="warning" %}
-We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).
+We also encourage you to review the [Google's policy for safeguarding your data](https://services.google.com/fh/files/blogs/googlesecuritysummary.pdf)
 {% endhint %}
 
 ## No Use By Minors
@@ -100,7 +104,13 @@ You may provide us either directly at [support@asserts.ai](mailto:support@assert
 
 ### Sentry
 
-Sentry is open-source error tracking solution provided by Functional Software Inc. More information is available here: [https://sentry.io/privacy/](https://sentry.io/privacy/)
+Sentry is open-source error tracking solution provided by Functional Software Inc.   
+More information is available here: [Privacy Policy](https://sentry.io/privacy/)
+
+### Intercom
+
+Intercom is an Customer Service Management messaging platform provided by Intercom, Inc.  
+More information is available here: [Intercom](https://policies.asserts.ai/privacy-policy#intercom) 
 
 ### Links To Other Web Sites
 
